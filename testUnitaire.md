@@ -4,9 +4,9 @@ Un *test unitaire* est un procédé permettant de s'assurer du bon fonctionnemen
 
 ## Quelques framworks
 
-*CUnit
-*CPPUnit
-*JUnit
+* CUnit
+* CPPUnit
+* JUnit
 
 ## Exemple de code avec JUnit (Java)
 
