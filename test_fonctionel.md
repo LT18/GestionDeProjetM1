@@ -1,0 +1,5 @@
+**Tests Systèmes (tests fonctionnels)**
+
+    Les tests système de logiciel ou de matériel réfèrent à un processus de test d'un système intégré afin d'évaluer sa conformité aux exigences spécifiées. Les tests système appartiennent à la classe des tests de type boîte noire, et en tant que tels, ne devraient exiger aucune connaissance de la conception interne du code ou de la logique.
+
+    En règle générale, les tests système prennent comme entrée tous les composants logiciels « intégrés » (ayant réussi les tests d'intégration) mais aussi le système logiciel lui-même intégré à n'importe quel système(s) matériel(s) compatible(s). Le but des tests d'intégration est de détecter d'éventuelles incohérences entre les unités logicielles intégrées ensemble (appelés assemblages) et entre les assemblages et le matériel. Les tests système sont un type plus restreint de test, ils cherchent à détecter des défauts à la fois dans les « inter-assemblages » mais également au sein du système dans son ensemble.
